@@ -8,7 +8,8 @@
 
 
 Languages and Tools:
-git html5 java javascript linux mongodb mysql postgresql postman python react 
+![image](https://github.com/user-attachments/assets/935710f6-9630-48a7-a9ff-b7ca07fd5171)
+ html5 java javascript linux mongodb mysql postgresql postman python react 
 
 
 <!---
