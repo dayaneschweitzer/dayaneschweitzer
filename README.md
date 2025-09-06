@@ -1,18 +1,56 @@
-- 👋 Hi, I'm @dayaneschweitzer
-- 👀 I'm interested in software development
-- 🌱 I'm currently working with Java, JavaScript, React, and Python, but I also have experience with ASP, CSS, HTML, and PHP.
-- 💞️ I'm looking to collaborate on projects related software, open-source solutions, and innovative web applications, including AI usage.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dayane-schweitzer-b23853131/) | falecomigodayane@gmail.com
-- 😄 Pronouns: She/Her
+👋 Hi, I'm @dayaneschweitzer
 
-Main Tools:
+👩‍💻 I’m a Software Developer and AI Researcher
 
+📚 Currently pursuing a PhD in Applied Computing (UDESC) with research on Multi-Agent Systems with Retrieval-Augmented Generation (RAG) and Large Language Models (LLMs)
 
-![image](https://github.com/user-attachments/assets/935710f6-9630-48a7-a9ff-b7ca07fd5171)![image](https://github.com/user-attachments/assets/5d0d3ace-5d33-42b3-afbe-e99bdfffc9a4)![image](https://github.com/user-attachments/assets/fe6d550a-bde5-42f3-b9d6-039b629c77ef)
-![image](https://github.com/user-attachments/assets/1814d4a9-6d3c-45ad-95f4-010a8abda2ad)![image](https://github.com/user-attachments/assets/367ee2bb-db84-4bd8-8bcc-c58caf18d6ca)![image](https://github.com/user-attachments/assets/52555130-c004-426e-877a-43e841dfd1da)
-![image](https://github.com/user-attachments/assets/49f4228d-f275-4084-a958-1ee6d643250b)![image](https://github.com/user-attachments/assets/91d36d64-0cca-4169-9cd2-46bd54ed3fbf)![image](https://github.com/user-attachments/assets/630ca00c-4449-4f24-ac5f-acd6fb77f3ab)
-![image](https://github.com/user-attachments/assets/cc90a636-acfc-4e0f-8cf1-50e983a1503f)![image](https://github.com/user-attachments/assets/54334fba-ed21-474a-a0fa-7e75cb841c02)![image](https://github.com/user-attachments/assets/83f57914-39fb-4084-b936-90b30e68e278)
-![image](https://github.com/user-attachments/assets/7913bd4b-d9f4-4748-8ea0-6c7f50e354ab)
+🌱 I work with Java, JavaScript, React, Python, and have solid experience with ASP, PHP, CSS, HTML and cloud/DevOps practices (AWS, Azure, Docker, Kubernetes, Terraform).
+
+💡 I’m passionate about building AI-powered applications, innovative open-source solutions, and projects that transform healthcare, education, and career development through technology.
+
+🤝 Open to collaborations in AI, NLP, Machine Learning, RAG architectures, multi-agent systems, and software solutions with social impact.
+
+📫 Reach me: LinkedIn https://www.linkedin.com/in/dayane-schweitzer-b23853131/ | falecomigodayane@gmail.com
+
+😄 Pronouns: She/Her
+
+🚀 Highlighted Projects
+
+🧠 Research in Multi-Agent RAG Architectures (PhD Project)
+Development of frameworks that integrate multi-agent systems with LLMs, focusing on retrieval, coordination, and adaptive reasoning.
+🏥 Clinical Research Software with NLP (Ebserh, UFBA & Nuclearis)
+Co-developer of an innovative system that transforms unstructured EHR text into structured data for clinical studies.
+- Tech stack: Java (Spring Boot), React (TypeScript), Python (Flask, AI/NLP)
+- Funded by FINEP & CNPq under the Finep Startups IA program.
+- My role: System architecture, technical specification, team guidance.
+
+🩻 Denoiser for Medical Imaging (Nuclearis)
+Designed and implemented AI models (TensorFlow) for noise reduction in DICOM images, ensuring clarity for PET/SPECT diagnostics.
+
+🤖 Chatbot for Legislative Search
+Built a conversational assistant capable of retrieving laws and regulations using LLMs + RAG pipelines.
+
+🌐 Cocriar-se (Volunteer Project)
+Full Stack Developer creating career-mentoring platforms enhanced with generative AI (Mistral, LLaMA, LangChain).
+
+📊 AI Integrations in TOTVS RM (Worknow)
+Leading the integration of AI solutions in enterprise TOTVS RM systems, from requirements to delivery.
+
+🛠️ Main Tools & Technologies
+
+ • Programming & Frameworks 
+ 
+Java • JavaScript • React • Python • PHP • ASP • C • Flask • Spring Boot • Angular • Web Scraping • HTML • CSS • NodeJS • postman
+
+ • AI & Data 
+ 
+TensorFlow • Pandas • LangChain • Ollama • NLP • RAG • LLMs 
+
+ • Cloud & DevOps 
+ 
+AWS • Azure • Docker • Kubernetes • Terraform • Git • CI/CD • GCP 
+
+✨ Always looking to connect research with practice, creating scalable, innovative, and human-centered AI solutions.
 
 
 
